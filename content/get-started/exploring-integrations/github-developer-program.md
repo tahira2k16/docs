@@ -34,4 +34,5 @@ Awesome! We'd love to have you be part of the program. Here’s how you can spre
 Membership is open to individual developers and companies who have:
 
 - An integration in production or development using the GitHub API.
-- An email address where GitHub users can contact you for support.
+- An email address where GitHub users can contact you for support
+- A personal or Organization website.
